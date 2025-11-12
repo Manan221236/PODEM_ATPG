@@ -184,4 +184,3 @@ If no differences are shown, the output matches perfectly.
 
 ---
 
-**Developed with ❤️ using Modern C++17 and clean design principles.**
