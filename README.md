@@ -109,8 +109,8 @@ conda install flex bison
 
 **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Manan221236/PODEM_ATPG
+cd PODEM_ATPG
 ```
 
 **Locate Flex & Bison Paths:**
