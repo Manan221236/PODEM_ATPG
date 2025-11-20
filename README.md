@@ -1,4 +1,4 @@
-# Modern C++ PODEM ATPG Tool
+# C++ PODEM ATPG Tool
 
 This is an Automatic Test Pattern Generation (ATPG) tool written from scratch in modern **C++17**.  
 It implements the **PODEM (Path-Oriented Decision Making)** algorithm to generate test vectors for single stuck-at (SSA) faults in digital circuits.
